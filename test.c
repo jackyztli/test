@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main()
 {
-    printf("This is my git project!");
+    printf("This is my first git project!");
     return 0;
 }
