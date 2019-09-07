@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include "hello.h"
 int main()
 {
-    printf("This is my second git project!");
+    sayHello();
+    printf("This is my new branch!");
     return 0;
 }
